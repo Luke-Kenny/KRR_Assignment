@@ -33,7 +33,7 @@ I use a simple, well-studied **GridWorld** that enables controlled experimentati
 
 ---
 
-### ⚙️ PEAS Description (Performance, Environment, Actuators, Sensors)
+### PEAS Description (Performance, Environment, Actuators, Sensors)
 
 | Agent Type | Performance | Environment | Actuators | Sensors |
 |-------------|--------------|--------------|-------------|-----------|
